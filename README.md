@@ -3,3 +3,4 @@
 13/04/21 14:07 -> début de la 1ere évaluation
 
 15:05 -> création readme.txt
+15:14 -> choix de la police
