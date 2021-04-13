@@ -11,3 +11,5 @@
 15:24 -> pause
 
 17:44 -> reprise
+
+19:34 -> fin de journée
