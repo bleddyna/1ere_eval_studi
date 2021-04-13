@@ -11,3 +11,36 @@ choix de la police:
 font pairing : serif and sans-serif
 title:Playfair Display
 paragraph:Source Sans Pro */
+
+/* titre */
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Playfair Display', serif;
+}
+/* paragraphe */
+p,span,div,a,li{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+/*Header*/
+header{
+    background-color: #0C0F0A;
+    height: 50px;
+    padding: 10px 0;
+    width: 100%;
+}
+li{
+    color: #fff;
+}
+li a{
+    color: #fff;
+}
+li a:hover{
+    border-bottom: 1px solid #FE277E;
+}
+.custom-toggler.navbar-toggler {
+    border-color:#FE277E
+  } 
