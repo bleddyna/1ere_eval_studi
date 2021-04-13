@@ -7,3 +7,5 @@
 15:14 -> choix de la police
 
 15:22 -> choix de la couleur
+
+15:24 -> pause
