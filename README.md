@@ -5,3 +5,5 @@
 15:05 -> création readme.txt
 
 15:14 -> choix de la police
+
+15:22 -> choix de la couleur
