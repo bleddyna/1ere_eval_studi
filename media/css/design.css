@@ -25,22 +25,28 @@ p,span,div,a,li{
     padding: 0;
     box-sizing: content-box;
 }
+p{
+    color: #fff;
+}
 /*Header*/
 header{
     background-color: #0C0F0A;
     height: 50px;
     padding: 10px 0;
     width: 100%;
-}
-li{
     color: #fff;
 }
-li a{
-    color: #fff;
+/*toogle Icon*/
+.icon-bar{
+    background-color: #fff;
 }
-li a:hover{
-    border-bottom: 1px solid #FE277E;
+.navbar-toggle{
+    border: 1px solid #fff;
 }
-.custom-toggler.navbar-toggler {
-    border-color:#FE277E
-  } 
+.navbar-toggle:hover{
+    border: 1px solid #FE277E;
+    border-radius: 44%;
+}
+.navbar-toggle:hover .icon-bar{
+    background-color: #FE277E;
+}
