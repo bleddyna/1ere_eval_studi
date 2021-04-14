@@ -33,10 +33,13 @@ header{
 }
 /*main*/
 .main{
-    margin: 2% 5%;
+    margin: 7%;
 }
 .container-fluid{
     width: auto;
+}
+.histoire{
+    margin: 7% 0;
 }
 /* Footer */
 footer{
