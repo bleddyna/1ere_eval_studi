@@ -17,3 +17,5 @@
 14/04/2021 14:56 -> début 2eme journée
 
 16:56-> 1ere page grossière
+
+17:16-> pause
