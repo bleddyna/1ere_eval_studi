@@ -25,15 +25,11 @@ html{
     padding: 0;
     box-sizing: border-box;
 }
-p{
-    color: #fff;
-}
 /*Header*/
 header{
     height: 100px;
     padding: 10px 0;
     width: 100%;
-    color: #fff;
 }
 /*main*/
 .main{
