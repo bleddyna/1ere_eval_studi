@@ -23,3 +23,5 @@
 15/04/21 00:28 -> reprise et fin de journée
 
 14/04/21 8:41-> début 3eme journée
+
+09:20-> pause
