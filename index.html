@@ -50,17 +50,37 @@
         <div class="modal-dialog modal-dialog-centered" role="document">
           <div class="modal-content">
             <div class="modal-header">
-              <h5 class="modal-title" id="exampleModalLongTitle">Modal title</h5>
+              <h5 class="modal-title  text-center" id="exampleModalLongTitle">Formulaire d'inscription</h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                 <span aria-hidden="true">&times;</span>
               </button>
             </div>
             <div class="modal-body">
-              ...
+        <form>
+          <form>
+            <div class="form-group">
+              <label for="formGroupExampleInput">Nom d'utilisateur</label>
+              <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Votre nom d'utilisateur">
+            </div>
+            <div class="form-group">
+              <label for="exampleFormControlInput1">Adresse mail</label>
+              <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Votre adresse mail">
+            </div>
+            <div class="form-group">
+              <label for="exampleInputPassword1">Votre mot de passe</label>
+              <input type="password" class="form-control" id="exampleInputPassword1" aria-describedby="pswdHelp"placeholder="Mot de passe">
+              <small id="pswdHelp" class="form-text text-muted">Le mot de passe doit contenir 1 lettre, 1 majuscule, 1minuscule et 8 caractères.</small>
+            </div>
+            <div class="form-group">
+              <label for="exampleInputPassword2">Confirmation du mot de passe</label>
+              <input type="password" class="form-control" id="exampleInputPassword2" placeholder="confirmer mot de passe">
+            </div>
+        </form>
+
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-              <button type="button" class="btn btn-primary">Save changes</button>
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Annuler</button>
+              <button type="button" class="btn btn-primary">S'inscrire</button>
             </div>
           </div>
         </div>
