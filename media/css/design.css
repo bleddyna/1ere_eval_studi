@@ -33,6 +33,7 @@ header{
 }
 .bg-dark{
     background-color: #0C0F0A !important;
+    z-index: 1;
 }
 .nav-link{
     color:#fff !important
