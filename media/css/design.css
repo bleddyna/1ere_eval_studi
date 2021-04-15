@@ -47,14 +47,14 @@ header{
     color:#47EAD0 !important;
     font-weight: bold;
 }
-header button{
+button{
     margin: 0 10px;
     color:#fff !important;
     background-color: #FE277E!important;
     border:none !important;
 }
-header button:hover{
-    color: #0C0F0A !important;
+button:hover{
+   color: #0C0F0A !important;
     background-color: #47EAD0 !important;
 }
 .modal-title{
