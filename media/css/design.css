@@ -57,6 +57,9 @@ header button:hover{
     color: #0C0F0A !important;
     background-color: #47EAD0 !important;
 }
+.modal-title{
+    margin: 0 auto;
+}
 /*main*/
 .main{
     margin: 7%;
