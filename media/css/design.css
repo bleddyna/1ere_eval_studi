@@ -31,6 +31,31 @@ header{
     padding: 10px 0;
     width: 100%;
 }
+.bg-dark{
+    background-color: #0C0F0A !important;
+}
+.nav-link{
+    color:#fff !important
+}
+.nav-link:hover:not(.active a){
+    color: #47EAD0 !important;
+    text-decoration: underline;
+    font-style: italic;
+}
+.active a{
+    color:#47EAD0 !important;
+    font-weight: bold;
+}
+header button{
+    margin: 0 10px;
+    color:#fff !important;
+    background-color: #FE277E!important;
+    border:none !important;
+}
+header button:hover{
+    color: #0C0F0A !important;
+    background-color: #47EAD0 !important;
+}
 /*main*/
 .main{
     margin: 7%;
@@ -56,9 +81,8 @@ header{
 .bouton{
     border-radius: 4px;
     border: none;
-  color: #FE277E;
   text-align: center;
-  background-color: #47EAD0;
+  background-color: #FE277E;
   transition: all 0.5s;
   cursor: pointer;
   margin: 5px;
@@ -68,8 +92,9 @@ header{
     display: inline-block;
     position: relative;
     transition: 0.5s;
+    color: #fff;
 }
-.bouton1 span:after {
+.bouton span:after {
     content: "\260E";
     position: absolute;
     opacity: 0;
@@ -85,9 +110,12 @@ header{
     right: -20px;
     transition: 0.5s;
 }
-  
-.bouton:hover span {
+.bouton:hover{
+    background-color: #47EAD0;
+}
+.bouton span:hover {
     padding-right: 25px;
+    color: #0C0F0A;
 }
   
 .bouton:hover span:after {
