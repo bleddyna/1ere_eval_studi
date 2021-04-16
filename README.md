@@ -39,3 +39,5 @@
 9:46 -> continuité sur la création du logo et des images pour le carousel
 
 11:24 -> pause
+
+16/04/21 00:01 -> reprise et fin de journée
