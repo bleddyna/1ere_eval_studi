@@ -35,3 +35,5 @@
 15/04/21 1:00 -> fin de journée
 
 15/04/21 8:00 -> début de la 4eme journée
+
+9:46 -> continuité sur la création du logo et des images pour le carousel
