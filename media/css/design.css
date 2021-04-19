@@ -79,9 +79,6 @@ button:hover{
 .container-fluid{
     width: auto;
 }
-.histoire{
-    margin: 7% 0;
-}
 .carousel-control-prev-icon {
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23FE277E' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
    }
@@ -97,6 +94,15 @@ button:hover{
 }
 .carousel-indicators .active{
     background-color: #FE277E;
+}
+.cardL{
+    background: linear-gradient(to right, rgba(255,255,255,1),rgba(255,255,255,0) );
+}
+.cardR{
+    background: linear-gradient(to left, rgba(255,255,255,1),rgba(255,255,255,0) );
+}
+.cardBand{
+    background: linear-gradient(to left, rgba(255,255,255,1),rgba(255,255,255,0),rgba(255,255,255,1) ); 
 }
 /* Footer */
 .footer{
