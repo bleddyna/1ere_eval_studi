@@ -118,7 +118,7 @@ button:hover{
     border-radius: 4px;
     border: none;
   text-align: center;
-  background-color: #FE277E;
+  background-color: #FE277E !important;
   transition: all 0.5s;
   cursor: pointer;
   margin: 5px;
@@ -137,6 +137,13 @@ button:hover{
     top: 0;
     right: -20px;
     transition: 0.5s;
+}
+.bouton a{
+    text-decoration: none;
+    color: #fff;
+}
+.bouton a:hover{
+    color:#0C0F0A;
 }
 .bouton2 span:after {
     content: "\2709";
