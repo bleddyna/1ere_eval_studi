@@ -51,3 +51,5 @@
 15:39->pause
 
 17:31 -> reprise
+
+18:30 -> fin du codage et relecture
