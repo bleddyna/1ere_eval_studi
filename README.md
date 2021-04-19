@@ -53,3 +53,5 @@
 17:31 -> reprise
 
 18:30 -> fin du codage et relecture
+
+19h27 de temps total
