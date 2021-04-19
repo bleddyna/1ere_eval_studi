@@ -3,7 +3,6 @@
 choix des couleurs:
 pseudo noir : #0C0F0A
 rose: #FE277E
-jaune :#FCFE19
 vert:#47EAD0
 blanc:#FFFFFF
 
